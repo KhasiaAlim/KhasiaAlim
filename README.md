@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Coding**
 
-- 🌱 I’m currently learning **Web & App Development Course**
+- 🌱 I’m currently learning **Web & App Development**
 
 - 📫 How to reach me **khasiaalim241211@gmail.com**
 
